@@ -59,8 +59,8 @@ redirect_from:
 # 🎖 荣誉奖项
 - *2026.04* 第十七届蓝桥杯软件赛省赛C/C++程序设计（大学A组） `省一等奖（进入国赛）` 
 - *2026.04* 第十七届蓝桥杯软件赛省赛Java软件开发（大学A组） `省一等奖（进入国赛）` 
-- *2026.05* 获得 ICPC国际大学生程序设计竞赛全国邀请赛（武汉） `铜牌`  [[比赛榜单]](https://board.xcpcio.com/provincial-contest/2026/northeastern?group=official) 
-- *2026.05* 获得 CCPC第二十届东北地区大学生程序设计竞赛 `银牌` [[比赛榜单]](https://board.xcpcio.com/icpc/51st/wuhan-invitational?group=Invitational_participants) 
+- *2026.05* 获得 ICPC国际大学生程序设计竞赛全国邀请赛（武汉） `铜牌`  <a href="https://board.xcpcio.com/provincial-contest/2026/northeastern?group=official" referrerpolicy="no-referrer" rel="noopener">比赛榜单</a>
+- *2026.05* 获得 CCPC第二十届东北地区大学生程序设计竞赛 `银牌` <a href="https://board.xcpcio.com/icpc/51st/wuhan-invitational?group=Invitational_participants" referrerpolicy="no-referrer" rel="noopener">比赛榜单</a> 
 
 
 <span class='anchor' id='-educations'></span>
