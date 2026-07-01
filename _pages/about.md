@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -20,19 +19,18 @@ redirect_from:
 我是2025级东北大学信息安全专业本科学生
 
 我的探索领域包括：
+
 - 算法竞赛
 - 服务器搭建
 - 网站搭建
 
-
 <span class='anchor' id='-xl'></span>
-
 
 <span class='anchor' id='-news'></span>
 
 # 🎓 学历
-- *2025.08 - 2029.06*, <a href="https://www.neu.edu.cn/"><img src="/images/NEU.png" width="23pt"></a> 东北大学 软件学院 信息安全专业 
 
+- *2025.08 - 2029.06*, <a href="https://www.neu.edu.cn/"></a> 东北大学 软件学院 信息安全专业
 
 <span class='anchor' id='-publications'></span>
 
@@ -57,15 +55,17 @@ redirect_from:
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 荣誉奖项
-- *2026.04* 第十七届蓝桥杯软件赛省赛C/C++程序设计（大学A组） `省一等奖（进入国赛）` 
-- *2026.04* 第十七届蓝桥杯软件赛省赛Java软件开发（大学A组） `省一等奖（进入国赛）` 
-- *2026.05* 获得 ICPC国际大学生程序设计竞赛全国邀请赛（武汉） `铜牌`  <a href="https://board.xcpcio.com/provincial-contest/2026/northeastern?group=official" referrerpolicy="no-referrer" rel="noopener">比赛榜单</a>
-- *2026.05* 获得 CCPC第二十届东北地区大学生程序设计竞赛 `银牌` <a href="https://board.xcpcio.com/icpc/51st/wuhan-invitational?group=Invitational_participants" referrerpolicy="no-referrer" rel="noopener">比赛榜单</a> 
 
+- *2026.04* 第十七届蓝桥杯软件赛省赛C/C++程序设计（大学A组） `省一等奖（进入国赛）`
+- *2026.04* 第十七届蓝桥杯软件赛省赛Java软件开发（大学A组） `省一等奖（进入国赛）`
+- *2026.05* 获得 ICPC国际大学生程序设计竞赛全国邀请赛（武汉） `铜牌`
+- *2026.05* 获得 CCPC第二十届东北地区大学生程序设计竞赛 `银牌`
+- *2026.06* 第十七届蓝桥杯软件赛国赛C/C++程序设计（大学A组） `国赛一等奖`
 
 <span class='anchor' id='-educations'></span>
 
 # 📖 学术成果
+
 <!--
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -74,6 +74,7 @@ redirect_from:
 <span class='anchor' id='-invited-talks'></span>
 
 # 💬 学术会议
+
 <!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
@@ -82,6 +83,7 @@ redirect_from:
 <span class='anchor' id='-internships'></span>
 
 # 💻 工作实习
+
 <!--
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
